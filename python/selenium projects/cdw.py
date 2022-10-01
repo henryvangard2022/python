@@ -18,7 +18,7 @@ def SetUp():
     driver = webdriver.Firefox()
 
     uname = "henryvangard"
-    pw = "Tv922597!!"
+    pw = "xxxxxx"
 
     url = 'https://www.cdw.com/accountcenter/LogOn?target=%2F'
 
